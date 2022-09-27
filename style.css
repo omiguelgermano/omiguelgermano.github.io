@@ -334,10 +334,10 @@ section .title::after{
     width: 85%;
 }
 .skills .skills-content .right .js::before{
-    width: 87%;
+    width: 75%;
 }
-.skills .skills-content .right .php::before{
-    width: 47%;
+.skills .skills-content .right .py::before{
+    width: 59%;
 }
 .skills .skills-content .right .mysql::before{
     width: 42%;
