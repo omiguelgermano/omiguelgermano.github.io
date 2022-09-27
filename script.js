@@ -16,13 +16,13 @@ $(document).ready(function(){
      });
 
      var typed = new Typed(".typing", {
-         strings:["Advogada", "Estudante de Desenvolvimento"],
+         strings:["Web Developer WP", "Backend - JS/Py", "Network Manager"],
          typeSpeed:100,
          backSpeed:60,
          loop:true
      });
      var typed = new Typed(".typing-2", {
-        strings:["Advogada", "Estudante de Desenvolvimento"],
+        strings:["Web Developer WP", "Backend - JS/Py", "Network Manager"],
         typeSpeed:100,
         backSpeed:60,
         loop:true
