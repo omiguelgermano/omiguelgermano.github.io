@@ -16,13 +16,13 @@ $(document).ready(function(){
      });
 
      var typed = new Typed(".typing", {
-         strings:["Web Developer WP", "Backend - JS/Py", "Network Manager"],
+         strings:["Web Developer (WP, ASP.NET, Node.js)", "Backend (C#, JS, Py)", "Network Manager (Zabbix, PRTG)"],
          typeSpeed:100,
          backSpeed:60,
          loop:true
      });
      var typed = new Typed(".typing-2", {
-        strings:["Web Developer WP", "Backend - JS/Py", "Network Manager"],
+        strings:["Web Developer (WP, ASP.NET, Node.js)", "Backend (C#, JS, Py)", "Network Manager (Zabbix, PRTG)"],
         typeSpeed:100,
         backSpeed:60,
         loop:true
